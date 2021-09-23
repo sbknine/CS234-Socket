@@ -1,3 +1,3 @@
 # CS234-Socket
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hewgokiki&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaml3er&show_icons=true&theme=radical)
